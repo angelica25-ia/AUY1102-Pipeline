@@ -186,3 +186,5 @@ Contributions are welcome! See [Contributor's Guide](./docs/contributors.md)
 Análisis automático SonarCloud habilitado
 
 Actualización de prueba para activar CI/CD.
+Reejecución del pipeline después de agregar secrets.
+
