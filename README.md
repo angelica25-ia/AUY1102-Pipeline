@@ -184,3 +184,5 @@ Contributions are welcome! See [Contributor's Guide](./docs/contributors.md)
 + **NPM Audit Signatures:** https://github.blog/changelog/2022-07-26-a-new-npm-audit-signatures-command-to-verify-npm-package-integrity/
 + **NPM Audit:** https://github.com/marketplace/actions/npm-audit-action
 Análisis automático SonarCloud habilitado
+
+Actualización de prueba para activar CI/CD.
