@@ -189,3 +189,6 @@ Actualización de prueba para activar CI/CD.
 Reejecución del pipeline después de agregar secrets.
 Quinta ejecución del pipeline para probar login correcto.
 Sexta ejecución: probar scopes del token Docker Hub.
+
+# prueba snyk
+
