@@ -185,4 +185,6 @@ Contributions are welcome! See [Contributor's Guide](./docs/contributors.md)
 + **NPM Audit:** https://github.com/marketplace/actions/npm-audit-action
 Análisis automático SonarCloud habilitado
 Actualización para activar workflows de seguridad.
+Cambio de prueba para ejecutar GitHub Advanced Security.
+
 
